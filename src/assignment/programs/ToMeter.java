@@ -11,8 +11,8 @@ public class ToMeter {
 		double $1_inch = 0.0254;
 		double inches = input.nextDouble();
 		
-		double total_inches = inches * $1_inch;
-		System.out.println("total inches  =    "+ total_inches);
+		double total_inches = inches * $1_inch; 
+		System.out.println("total inches  =     "+ total_inches);
 		
 		input.close();
 		         
